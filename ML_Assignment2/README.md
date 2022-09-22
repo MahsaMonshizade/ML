@@ -1,4 +1,4 @@
-You have just run the code; for each dataset for task 1 it shows the plots and also save them in the subdirectory task1, and it prints all the results in the terminal like the following:
+You just have to run the code; for each dataset for task 1 it shows the plots and also save them in the subdirectory task1, and it prints all the results in the terminal like the following:
 ```
 crime dataset:
 
